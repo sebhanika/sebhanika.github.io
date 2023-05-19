@@ -1,5 +1,19 @@
 ---
-title: teaching
+title: Teaching
 ---
 
-I teach quantitative methods
+I began teaching at the university level in March 2023. Moving forward, my goal is to create more interactive materials and exercises for teaching quantitative methods. Additionally, I have plans to deliver guest lectures in population or economic geography, aligning with my research interests.
+
+# 2023
+
+## Courses
+
+### Applied methods in planning
+
+I taught the module on Quantitative Methods and Statistics, which encompassed lectures, seminars, and lab exercises. Throughout the course, I delivered a total of 12 hours of in-classroom teaching. I also had responsibility for grading assignments and assessments.
+
+## Supervision
+
+### Degree project in Human Geography
+
+I supervised two students for their degree projects in Human Geography as part of the SGEA23 course.
