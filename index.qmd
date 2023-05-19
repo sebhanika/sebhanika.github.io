@@ -1,9 +1,40 @@
 ---
 title: "Sebastian Hanika"
-image: mypic.png
 about:
-  template: jolla
-  image-shape: round
-  image-width: 15em
+    template: trestles
+    image: images/mypic.png
+    links: 
+          - icon: mastodon
+            href: https://fosstodon.org/@SebHanika
+          - icon: github
+            href: https://github.com/sebhanika
+          - text: "{{< fa envelope >}}"
+            href: mailto:sebastian.hanika@keg.lu.se
 
+page-layout: full
+toc: false
 ---
+
+I am a PhD student in Human Geography at Lund University, specializing in the intersection between Human Geography and demography. My research focuses on spatial variations in population aging and the labor market participation of older workers. I have a strong interest in quantitative methods, particularly R programming and GIS.
+
+***
+
+## Education
+
+**Ph.D. in Human Geography**
+<br>Lund University, Sweden
+<br>[September 2022 - now]{.date}
+
+**M.Sc. in Demography**
+<br>Universitat Autònoma de Barcelona, Spain
+<br>Euorepan Doctoral School of Dempgraphy
+<br>[September 2021 - July 20222]{.date}
+
+**M.Sc. in Human Geography**
+<br>Copenhagen University, Denmark
+<br>[September 2019 - June 2021]{.date}
+
+**B.Sc. Geography and Economics**
+<br>Humboldt Universty Berlin, Germany
+<br>[September 2015 - June 2019]{.date}
+
