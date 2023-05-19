@@ -9,9 +9,11 @@ website:
   navbar:
     left:
       - href: research.qmd
-        text: research
+        text: Research
       - href: teaching.qmd
-        text: teaching
+        text: Teaching
+      - href: data_projects.qmd
+        text: Data Projects
 
 format:
   html:
