@@ -8,7 +8,7 @@ about:
             href: https://fosstodon.org/@SebHanika
           - icon: github
             href: https://github.com/sebhanika
-          - text: "{{< fa envelope >}}"
+          - icon: envelope
             href: mailto:sebastian.hanika@keg.lu.se
 
 page-layout: full
