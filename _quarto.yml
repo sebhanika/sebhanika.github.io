@@ -17,7 +17,7 @@ website:
 
 format:
   html:
-    theme: [litera, styles.scss]
+    theme: [litera, style_website.scss]
     toc: false
 
 
