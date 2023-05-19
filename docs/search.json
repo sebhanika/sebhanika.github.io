@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Sebastian Hanika",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nnext try\n\n1 + 1\n\n[1] 2"
+    "text": "I am a PhD student in Human Geography at Lund University, specializing in the intersection between Human Geography and demography. My research focuses on spatial variations in population aging and the labor market participation of older workers. I have a strong interest in quantitative methods, particularly R programming and GIS."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sebastian Hanika",
+    "section": "Education",
+    "text": "Education\nPh.D. in Human Geography Lund University, Sweden September 2022 - now\nM.Sc. in Demography Universitat Autònoma de Barcelona, Spain Euorepan Doctoral School of Dempgraphy September 2021 - July 20222\nM.Sc. in Human Geography Copenhagen University, Denmark September 2019 - June 2021\nB.Sc. Geography and Economics Humboldt Universty Berlin, Germany September 2015 - June 2019"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "research",
+    "section": "",
+    "text": "My research interest are sustainability transitions. In my PhD project, I investigate the directionality of transitioning to bioeconomies."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "teaching",
+    "section": "",
+    "text": "I teach quantitative methods"
   }
 ]
