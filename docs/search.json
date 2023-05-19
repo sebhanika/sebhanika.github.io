@@ -23,9 +23,9 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "research",
+    "title": "Research",
     "section": "",
-    "text": "My research interest are sustainability transitions. In my PhD project, I investigate the directionality of transitioning to bioeconomies."
+    "text": "My PhD research focuses on spatial variations in population aging and the labor market participation of older workers. I have a strong interest in quantitative methods, particularly R programming and GIS."
   },
   {
     "objectID": "teaching.html",
@@ -52,6 +52,20 @@
     "objectID": "index.html#research-experience",
     "href": "index.html#research-experience",
     "title": "Sebastian Hanika",
+    "section": "Research Experience",
+    "text": "Research Experience\nEuoprean Doctoral School of Demography Centre d’estudis Demogràfics Research education in demography finsihed with a thesis on post-retirement employment in Germany September 2021 - July 20222\nVisiting Student Oxford Institue of Population Ageing, UK Master’s thesis research on population ageing and local labor markets in Germany November 2020 - March 2022\nNEURUS Prgoram University of Califorina Irvine, USA Research on the development of cannabis-oriented business services in Los Angeles. Januar 2018 - May 2018"
+  },
+  {
+    "objectID": "data_projects.html",
+    "href": "data_projects.html",
+    "title": "Data Projects",
+    "section": "",
+    "text": "Here, I would like to share a collection of my data projects, ranging from those linked to my research and professional development to those created purely for fun."
+  },
+  {
+    "objectID": "research.html#research-experience",
+    "href": "research.html#research-experience",
+    "title": "Research",
     "section": "Research Experience",
     "text": "Research Experience\nEuoprean Doctoral School of Demography Centre d’estudis Demogràfics Research education in demography finsihed with a thesis on post-retirement employment in Germany September 2021 - July 20222\nVisiting Student Oxford Institue of Population Ageing, UK Master’s thesis research on population ageing and local labor markets in Germany November 2020 - March 2022\nNEURUS Prgoram University of Califorina Irvine, USA Research on the development of cannabis-oriented business services in Los Angeles. Januar 2018 - May 2018"
   }
