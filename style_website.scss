@@ -1,0 +1,40 @@
+
+/*-- scss:defaults --*/
+
+
+
+/* Font settings*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+$font-family-sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$font-family-serif:  "Times New Roman", Georgia, Garamond !default;
+$font-family-monospace : "Roboto Mono", "Courier New", monospace !default;
+
+
+/* css styles */
+
+
+
+/*change bullet points*/
+
+#education, #research-experience {
+
+    h2 {
+        font-weight: 600;
+        margin-bottom: 2pt;
+    }
+
+    p{
+        margin-bottom: 0pt;
+        font-family: $font-family-sans-serif;
+        }
+
+    ul{
+        list-style-type:circle;
+    }
+
+    ul li{
+        margin-left: -2.5pt;
+    }
+
+}
