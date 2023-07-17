@@ -60,7 +60,7 @@
     "href": "data_projects.html",
     "title": "Data Projects",
     "section": "",
-    "text": "Here, I would like to share a collection of my data projects, ranging from those linked to my research and professional development to those created purely for fun. I want to link them below."
+    "text": "Here, I am gathering some of my data projects which I do during my free time. The list is not complete and will be updated bit by bit. More projects can be found on my Github."
   },
   {
     "objectID": "research.html#research-experience",
@@ -68,5 +68,26 @@
     "title": "Research",
     "section": "Research Experience",
     "text": "Research Experience\nEuoprean Doctoral School of Demography\n\nCentre d’estudis Demogràfics\nResearch education in demography finsihed with a thesis on post-retirement employment in Germany\nSeptember 2021 - July 20222\n\nVisiting Student\n\nOxford Institue of Population Ageing, UK\nMaster’s thesis research on population ageing and local labor markets in Germany\nNovember 2020 - March 2022\n\nNEURUS Prgoram\n\nUniversity of Califorina Irvine, USA\nResearch on the development of cannabis-oriented business services in Los Angeles.\nJanuar 2018 - May 2018"
+  },
+  {
+    "objectID": "data_projects.html#apline-mountain-names---shiny-app",
+    "href": "data_projects.html#apline-mountain-names---shiny-app",
+    "title": "Data Projects",
+    "section": "Apline Mountain Names - Shiny App",
+    "text": "Apline Mountain Names - Shiny App\nMy first Shiny App\nMy first attempt at making a shiony app which can be found here. This project visualizes the spatial distribution of the most common German endings of mountain names in the Alps. Many mountains share common suffixes such as “-horn”, “-spitze” and “-kogel”, however are there any regional differences? Since German is spoken throughout many regions of the Alps, these distributions do not necessarily follow national borders. However, obviously, most mountain peaks with German names can be found in predominantly German speaking areas such as Austria, South-Tyrol, Germany and parts of Switzerland.\nThe analysis is based on the names of mountains as reported in the OpenStreetMap project and therefore might not include every regional variety or secondary summits. Furthermore not all peaks had elevation data included, hence some peaks are missing in the visualization in the plot tab. Additionally some other special names or name add-ons might not have been correctly handled in the data preparation.\nThe R code to recreate the project can be found in this repository."
+  },
+  {
+    "objectID": "data_projects.html#alpine-mountain-names",
+    "href": "data_projects.html#alpine-mountain-names",
+    "title": "Data Projects",
+    "section": "Alpine Mountain Names",
+    "text": "Alpine Mountain Names\nMy first attempt at making a shiny app which can be found here. This project visualizes the spatial distribution of the most common German endings of mountain names in the Alps. Many mountains share common suffixes such as “-horn”, “-spitze” and “-kogel”, however are there any regional differences? Since German is spoken throughout many regions of the Alps, these distributions do not necessarily follow national borders. However, obviously, most mountain peaks with German names can be found in predominantly German speaking areas such as Austria, South-Tyrol, Germany and parts of Switzerland.\nThe R code to recreate the project can be found in this repository."
+  },
+  {
+    "objectID": "data_projects.html#lund-quarto-template",
+    "href": "data_projects.html#lund-quarto-template",
+    "title": "Data Projects",
+    "section": "Lund Quarto Template",
+    "text": "Lund Quarto Template\nThis repository contains templates for creating Quarto documents and presentations that match the official PowerPoint template from Lund University. To use the presentation template, simply download the ‘extensions’ folder and place it in the project folder of your Quarto presentation. The SCSS file (lund_pres_theme.scss) contains all the styling options for the presentation, such as font size and colors. You can modify these options to your liking.\nYou can specify the title and author of your presentation in the YAML as you would in a regular Quarto presentation."
   }
 ]

@@ -2,5 +2,18 @@
 title: Data Projects
 ---
 
-Here, I would like to share a collection of my data projects, ranging from those linked to my research and professional development to those created purely for fun.
-I want to link them below. 
+Here, I am gathering some of my data projects which I do during my free time. The list is not complete and will be updated bit by bit. More projects can be found on my [Github](https://github.com/sebhanika).
+
+## Alpine Mountain Names
+
+My first attempt at making a shiny app which can be found [here](https://sebhanika.shinyapps.io/shiny_peaks/). This project visualizes the spatial distribution of the most common German endings of mountain names in the Alps. Many mountains share common suffixes such as “-horn”, “-spitze” and “-kogel”, however are there any regional differences? Since German is spoken throughout many regions of the Alps, these distributions do not necessarily follow national borders. However, obviously, most mountain peaks with German names can be found in predominantly German speaking areas such as Austria, South-Tyrol, Germany and parts of Switzerland.
+
+The R code to recreate the project can be found in this [repository](https://github.com/sebhanika/alpine_peaks). 
+
+
+## Lund Quarto Template
+
+This [repository](https://github.com/sebhanika/Lund_Uni_Quarto) contains templates for creating Quarto documents and presentations that match the official PowerPoint template from Lund University. 
+To use the presentation template, simply download the 'extensions' folder and place it in the project folder of your Quarto presentation. The SCSS file (lund_pres_theme.scss) contains all the styling options for the presentation, such as font size and colors. You can modify these options to your liking. 
+
+You can specify the title and author of your presentation in the YAML as you would in a regular Quarto presentation.
