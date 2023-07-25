@@ -89,5 +89,33 @@
     "title": "Data Projects",
     "section": "Lund Quarto Template",
     "text": "Lund Quarto Template\nThis repository contains templates for creating Quarto documents and presentations that match the official PowerPoint template from Lund University. To use the presentation template, simply download the ‘extensions’ folder and place it in the project folder of your Quarto presentation. The SCSS file (lund_pres_theme.scss) contains all the styling options for the presentation, such as font size and colors. You can modify these options to your liking.\nYou can specify the title and author of your presentation in the YAML as you would in a regular Quarto presentation."
+  },
+  {
+    "objectID": "teaching.html#courses---lund-university",
+    "href": "teaching.html#courses---lund-university",
+    "title": "Teaching",
+    "section": "Courses - Lund University",
+    "text": "Courses - Lund University\n\nApplied methods in planning\nI taught the module on quantitative methods and statistics, which encompassed lectures, seminars, and lab exercises. Throughout the course, I delivered a total of 12 hours of in-classroom teaching. I also had responsibility for grading assignments and assessments."
+  },
+  {
+    "objectID": "teaching.html#supervision---lund-university",
+    "href": "teaching.html#supervision---lund-university",
+    "title": "Teaching",
+    "section": "Supervision - Lund University",
+    "text": "Supervision - Lund University\n\nDegree project in Human Geography\nI supervised two students for their degree projects in Human Geography as part of the SGEA23 course."
+  },
+  {
+    "objectID": "teaching.html#evaluation---edsdced",
+    "href": "teaching.html#evaluation---edsdced",
+    "title": "Teaching",
+    "section": "Evaluation - EDSD/CED",
+    "text": "Evaluation - EDSD/CED\nI was a member of the evaluation committee of an oral thesis defense within the framework of the European Doctoral School of Demography (EDSD) at the Centre for Demographic Studies in Barcelona (Spain)."
+  },
+  {
+    "objectID": "teaching.html#thesis-evaluation---edsdced",
+    "href": "teaching.html#thesis-evaluation---edsdced",
+    "title": "Teaching",
+    "section": "Thesis Evaluation - EDSD/CED",
+    "text": "Thesis Evaluation - EDSD/CED\nI was a member of the evaluation committee of an oral thesis defense within the framework of the European Doctoral School of Demography (EDSD) at the Centre for Demographic Studies in Barcelona (Spain)."
   }
 ]
