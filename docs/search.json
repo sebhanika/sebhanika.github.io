@@ -117,5 +117,12 @@
     "title": "Teaching",
     "section": "Thesis Evaluation - EDSD/CED",
     "text": "Thesis Evaluation - EDSD/CED\nI was a member of the evaluation committee of a thesis defense for the European Doctoral School of Demography (EDSD) at the Centre for Demographic Studies in Barcelona (Spain)."
+  },
+  {
+    "objectID": "data_projects.html#first-year-seminar",
+    "href": "data_projects.html#first-year-seminar",
+    "title": "Data Projects",
+    "section": "First-year seminar",
+    "text": "First-year seminar\nThis repository contains the code and output for the visualizations of my first-year seminar as part of my PhD at the Department of Human Geography at Lund University. The visualizations illustrate the factors driving population aging in Sweden and selected European countries."
   }
 ]
