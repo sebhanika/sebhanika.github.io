@@ -3,26 +3,32 @@ title: Teaching
 ---
 
 I began teaching at the university level in March 2023. Moving forward, my goal is to create more interactive materials and exercises for teaching quantitative methods. Additionally, I have plans to deliver guest lectures in population or economic geography, aligning with my research interests.
+The cotent below shows major points in the development of my teaching activites as part of my PhD at Lund University.
 
-# 2023
+## 2024
 
-## Courses - Lund University
+### Introduction to Population Geography
 
+I designed and delivered new lectures for a Population Geography module within the SGEA20 course. The lectures where focused on introducing students to the fundamental concepts and underlying processes of population geography and were supplemented by an additional seminars A selection of my teaching materials are currently available in this [repository](https://github.com/sebhanika/pop_geo_teaching), with additional resources planned for future addition.
+
+### Teaching Datasets Statistics
+
+I created a [repository](https://github.com/sebhanika/stats_teaching) containing materials for introductory courses on quantitative methods designed for human geographers. Currently it  contains two teaching datasets based on NUTS2 and NUTS3 region but it will be extended in the future.
+
+## 2023
 
 ### Research Methodology Human Geography/Human Ecology
 
 I taught a module on quantitative methods and statistics for both the Human Geography and Human Ecology course. This encompassed lectures, seminars, and lab exercises with a total of 19 hours of in-classroom teaching. I also had responsibility for grading assignments.
 
-### Applied methods in planning (Spring and Autumn)
+### Applied methods in planning
 
-I taught the module on quantitative methods and statistics, which encompassed lectures, seminars, and lab exercises. Throughout the course, I delivered a total of 12 hours of in-classroom teaching. I also had responsibility for grading assignments.
+I taught the module on quantitative methods and statistics, which encompassed lectures, seminars, and lab exercises. Throughout the course, I delivered a total of 24 hours of in-classroom teaching in the spring and autumn semester. I also had responsibility for grading assignments. 
 
-## Supervision - Lund University
+### Supervision - Degree project in Human Geography
 
-### Degree project in Human Geography
+I supervised a total of five students for their degree projects in Human Geography as part of the SGEA23 course in the spring and autumn semester.
 
-I supervised two students for their degree projects in Human Geography as part of the SGEA23 course.
-
-## Thesis Evaluation - EDSD/CED
+### Thesis Evaluation - EDSD/CED
 
 I was a member of the evaluation committee of a thesis defense for the European Doctoral School of Demography (EDSD) at the Centre for Demographic Studies in Barcelona (Spain).

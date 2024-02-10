@@ -32,7 +32,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "I began teaching at the university level in March 2023. Moving forward, my goal is to create more interactive materials and exercises for teaching quantitative methods. Additionally, I have plans to deliver guest lectures in population or economic geography, aligning with my research interests."
+    "text": "I began teaching at the university level in March 2023. Moving forward, my goal is to create more interactive materials and exercises for teaching quantitative methods. Additionally, I have plans to deliver guest lectures in population or economic geography, aligning with my research interests. The cotent below shows major points in the development of my teaching activites as part of my PhD at Lund University."
   },
   {
     "objectID": "teaching.html#courses",
@@ -124,5 +124,19 @@
     "title": "Data Projects",
     "section": "First-year seminar",
     "text": "First-year seminar\nThis repository contains the code and output for the visualizations of my first-year seminar as part of my PhD at the Department of Human Geography at Lund University. The visualizations illustrate the factors driving population aging in Sweden and selected European countries."
+  },
+  {
+    "objectID": "teaching.html#section",
+    "href": "teaching.html#section",
+    "title": "Teaching",
+    "section": "2024",
+    "text": "2024\n\nIntroduction to Population Geography\nI designed and delivered new lectures for a Population Geography module within the SGEA20 course. The lectures where focused on introducing students to the fundamental concepts and underlying processes of population geography and were supplemented by an additional seminars A selection of my teaching materials are currently available in this repository, with additional resources planned for future addition.\n\n\nTeaching Datasets Statistics\nI created a repository containing materials for introductory courses on quantitative methods designed for human geographers. Currently it contains two teaching datasets based on NUTS2 and NUTS3 region but it will be extended in the future."
+  },
+  {
+    "objectID": "teaching.html#section-1",
+    "href": "teaching.html#section-1",
+    "title": "Teaching",
+    "section": "2023",
+    "text": "2023\n\nResearch Methodology Human Geography/Human Ecology\nI taught a module on quantitative methods and statistics for both the Human Geography and Human Ecology course. This encompassed lectures, seminars, and lab exercises with a total of 19 hours of in-classroom teaching. I also had responsibility for grading assignments.\n\n\nApplied methods in planning\nI taught the module on quantitative methods and statistics, which encompassed lectures, seminars, and lab exercises. Throughout the course, I delivered a total of 24 hours of in-classroom teaching in the spring and autumn semester. I also had responsibility for grading assignments.\n\n\nSupervision - Degree project in Human Geography\nI supervised a total of five students for their degree projects in Human Geography as part of the SGEA23 course in the spring and autumn semester.\n\n\nThesis Evaluation - EDSD/CED\nI was a member of the evaluation committee of a thesis defense for the European Doctoral School of Demography (EDSD) at the Centre for Demographic Studies in Barcelona (Spain)."
   }
 ]
