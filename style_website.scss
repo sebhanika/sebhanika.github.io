@@ -6,6 +6,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 $font-family-sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$font-family-serif: "Times New Roman", Georgia, Garamond !default;
 $font-family-monospace : "Roboto Mono",
 "Courier New",
 monospace !default;
@@ -15,10 +16,6 @@ monospace !default;
 
 
 /*change bullet points*/
-
-#quarto-content {
-    font-family: $font-family-sans-serif;
-}
 
 
 #education,
@@ -31,8 +28,10 @@ monospace !default;
 
     p {
         margin-bottom: 0pt;
-        font-family: $font-family-sans-serif;
+    }
 
+    li {
+        font-family: $font-family-sans-serif
     }
 
     ul {
@@ -44,4 +43,9 @@ monospace !default;
         margin-left: -2.5pt;
     }
 
+}
+
+
+#p {
+    font-family: $font-family-sans-serif;
 }
