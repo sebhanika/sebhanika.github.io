@@ -32,7 +32,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "I began teaching at the university level in March 2023. Moving forward, my goal is to create more interactive materials and exercises for teaching quantitative methods. Additionally, I have plans to deliver guest lectures in population or economic geography, aligning with my research interests."
+    "text": "I began teaching at the university level in March 2023. My goal is to create more interactive materials and exercises for teaching quantitative methods. Additionally, I plan to deliver guest lectures in population and economic geography, aligning with my research interests. Some of my teaching materials are available on Github for population geography and quantitaive methods."
   },
   {
     "objectID": "teaching.html#courses",
@@ -95,14 +95,14 @@
     "href": "teaching.html#courses---lund-university",
     "title": "Teaching",
     "section": "Courses - Lund University",
-    "text": "Courses - Lund University\n\nResearch Methodology Human Geography/Human Ecology\nI taught a module on quantitative methods and statistics for both the Human Geography and Human Ecology course. This encompassed lectures, seminars, and lab exercises with a total of 19 hours of in-classroom teaching. I also had responsibility for grading assignments.\n\n\nApplied methods in planning (Spring and Autumn)\nI taught the module on quantitative methods and statistics, which encompassed lectures, seminars, and lab exercises. Throughout the course, I delivered a total of 12 hours of in-classroom teaching. I also had responsibility for grading assignments."
+    "text": "Courses - Lund University\n\nIntroduction to Population Geography & GIS\n\nDesigned and taught a module on Introduction to Population Geography in Spring 2024.\nExpanded the module in Autumn 2024 to include additional hours and an Introduction to GIS component.\nI now teach five lectures on population geography and one seminar as well as one lecture and a lab on GIS.\nFocused on foundational concepts in population geography and spatial analysis techniques.\n\n\n\nResearch Methodology in Human Geography & Human Ecology\n\nTaught a quantitative methods and statistics module for both Human Geography and Human Ecology students.\nDelivered 19 hours of in-classroom teaching, including lectures, seminars, and lab exercises.\nResponsible for grading assignments and guiding students in applying quantitative methods.\n\n\n\nApplied Methods in Planning (Spring and Autumn)\n\nDelivered 12 hours of in-classroom teaching on quantitative methods and statistics.\nConducted lectures, seminars, and lab exercises in both Spring and Autumn semesters.\nGraded assignments and provided feedback on statistical applications in planning.\n\n\n\nDegree Project in Human Geography\n\nSupervised a total of 2 students (spring and autumn) for their degree projects as part of the SGEA23 course.\nProvided guidance on research design, data analysis, and academic writing."
   },
   {
     "objectID": "teaching.html#supervision---lund-university",
     "href": "teaching.html#supervision---lund-university",
     "title": "Teaching",
     "section": "Supervision - Lund University",
-    "text": "Supervision - Lund University\n\nDegree project in Human Geography\nI supervised two students for their degree projects in Human Geography as part of the SGEA23 course."
+    "text": "Supervision - Lund University\n\nDegree Project in Human Geography\n\nSupervised two students for their degree projects as part of the SGEA23 course.\nProvided guidance on research design, data analysis, and academic writing."
   },
   {
     "objectID": "teaching.html#evaluation---edsdced",
@@ -116,7 +116,7 @@
     "href": "teaching.html#thesis-evaluation---edsdced",
     "title": "Teaching",
     "section": "Thesis Evaluation - EDSD/CED",
-    "text": "Thesis Evaluation - EDSD/CED\nI was a member of the evaluation committee of a thesis defense for the European Doctoral School of Demography (EDSD) at the Centre for Demographic Studies in Barcelona (Spain)."
+    "text": "Thesis Evaluation - EDSD/CED\n\nEuropean Doctoral School of Demography (EDSD) / Centre for Demographic Studies (CED)\n\nServed as a committee member for a thesis defense at the Centre for Demographic Studies in Barcelona, Spain.\nEvaluated the thesis, provided feedback, and participated in the defense process."
   },
   {
     "objectID": "data_projects.html#first-year-seminar",
@@ -124,5 +124,19 @@
     "title": "Data Projects",
     "section": "First-year seminar",
     "text": "First-year seminar\nThis repository contains the code and output for the visualizations of my first-year seminar as part of my PhD at the Department of Human Geography at Lund University. The visualizations illustrate the factors driving population aging in Sweden and selected European countries."
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching",
+    "section": "",
+    "text": "I began teaching at the university level in March 2023. My goal is to create more interactive materials and exercises for teaching quantitative methods. Additionally, I plan to deliver guest lectures in population and economic geography, aligning with my research interests."
+  },
+  {
+    "objectID": "teaching.html#courses---lund-university-1",
+    "href": "teaching.html#courses---lund-university-1",
+    "title": "Teaching",
+    "section": "Courses - Lund University",
+    "text": "Courses - Lund University\n\nResearch Methodology in Human Geography & Human Ecology\n\nTaught a quantitative methods and statistics module for both Human Geography and Human Ecology students.\nDelivered 19 hours of in-classroom teaching, including lectures, seminars, and lab exercises.\nResponsible for grading assignments and guiding students in applying quantitative methods.\n\n\n\nApplied Methods in Planning (Spring and Autumn)\n\nDelivered 12 hours of in-classroom teaching on quantitative methods and statistics.\nConducted lectures, seminars, and lab exercises in both Spring and Autumn semesters.\nGraded assignments and provided feedback on statistical applications in planning.\n\n\n\nDegree Project in Human Geography\n\nSupervised a total of 5 students (spring and autumn) for their degree projects as part of the SGEA23 course.\nProvided guidance on research design, data analysis, and academic writing."
   }
 ]

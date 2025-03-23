@@ -4,11 +4,11 @@ about:
     template: trestles
     image: images/mypic.png
     links: 
-          - icon: mastodon
-            href: https://fosstodon.org/@SebHanika
+          - icon: chat-right
+            href: https://bsky.app/profile/sebhanika.bsky.social
           - icon: github
             href: https://github.com/sebhanika
-          - icon: envelope
+          - icon: envelope-at
             href: mailto:sebastian.hanika@keg.lu.se
 
 page-layout: full
