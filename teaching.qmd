@@ -2,7 +2,6 @@
 title: Teaching
 ---
 
-<<<<<<< HEAD
 I began teaching at the university level in March 2023. My goal is to create more interactive materials and exercises for teaching quantitative methods. Additionally, I plan to deliver guest lectures in population and economic geography, aligning with my research interests. Some of my teaching materials are available on Github for [population geography](https://github.com/sebhanika/pop-geo-teaching) and [quantitaive methods](https://github.com/sebhanika/stats_teaching).
 
 # 2024
@@ -28,54 +27,26 @@ I began teaching at the university level in March 2023. My goal is to create mor
 ### Degree Project in Human Geography
 - Supervised a total of 2 students (spring and autumn) for their degree projects as part of the SGEA23 course.
 - Provided guidance on research design, data analysis, and academic writing.
-=======
-I began teaching at the university level in March 2023. Moving forward, my goal is to create more interactive materials and exercises for teaching quantitative methods. Additionally, I have plans to deliver guest lectures in population or economic geography, aligning with my research interests.
-The cotent below shows major points in the development of my teaching activites as part of my PhD at Lund University.
->>>>>>> 14efa58f4fc3d57856f4886e6232cdf98646849a
 
 ## 2024
 
 ### Introduction to Population Geography
 
-<<<<<<< HEAD
 ### Research Methodology in Human Geography & Human Ecology
 - Taught a quantitative methods and statistics module for both Human Geography and Human Ecology students.
 - Delivered 19 hours of in-classroom teaching, including lectures, seminars, and lab exercises.
 - Responsible for grading assignments and guiding students in applying quantitative methods.
-=======
-I designed and delivered new lectures for a Population Geography module within the SGEA20 course. The lectures where focused on introducing students to the fundamental concepts and underlying processes of population geography and were supplemented by an additional seminars A selection of my teaching materials are currently available in this [repository](https://github.com/sebhanika/pop_geo_teaching), with additional resources planned for future addition.
-
-### Teaching Datasets Statistics
-
-I created a [repository](https://github.com/sebhanika/stats_teaching) containing materials for introductory courses on quantitative methods designed for human geographers. Currently it  contains two teaching datasets based on NUTS2 and NUTS3 region but it will be extended in the future.
-
-## 2023
->>>>>>> 14efa58f4fc3d57856f4886e6232cdf98646849a
 
 ### Applied Methods in Planning (Spring and Autumn)
 - Delivered 12 hours of in-classroom teaching on quantitative methods and statistics.
 - Conducted lectures, seminars, and lab exercises in both Spring and Autumn semesters.
 - Graded assignments and provided feedback on statistical applications in planning.
 
-<<<<<<< HEAD
 ### Degree Project in Human Geography
 - Supervised a total of 5 students (spring and autumn) for their degree projects as part of the SGEA23 course.
 - Provided guidance on research design, data analysis, and academic writing.
 
 ## Thesis Evaluation - EDSD/CED
-=======
-I taught a module on quantitative methods and statistics for both the Human Geography and Human Ecology course. This encompassed lectures, seminars, and lab exercises with a total of 19 hours of in-classroom teaching. I also had responsibility for grading assignments.
-
-### Applied methods in planning
-
-I taught the module on quantitative methods and statistics, which encompassed lectures, seminars, and lab exercises. Throughout the course, I delivered a total of 24 hours of in-classroom teaching in the spring and autumn semester. I also had responsibility for grading assignments. 
-
-### Supervision - Degree project in Human Geography
-
-I supervised a total of five students for their degree projects in Human Geography as part of the SGEA23 course in the spring and autumn semester.
-
-### Thesis Evaluation - EDSD/CED
->>>>>>> 14efa58f4fc3d57856f4886e6232cdf98646849a
 
 ### European Doctoral School of Demography (EDSD) / Centre for Demographic Studies (CED)
 - Served as a committee member for a thesis defense at the Centre for Demographic Studies in Barcelona, Spain.
