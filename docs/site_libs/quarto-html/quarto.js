@@ -361,7 +361,10 @@ window.document.addEventListener("DOMContentLoaded", function (_event) {
 
               const clone = child.cloneNode(true);
               clone.style.opacity = 1;
+<<<<<<< HEAD
               clone.style.pointerEvents = null;
+=======
+>>>>>>> 14efa58f4fc3d57856f4886e6232cdf98646849a
               clone.style.display = null;
               toggleContents.append(clone);
             }
@@ -744,7 +747,10 @@ window.document.addEventListener("DOMContentLoaded", function (_event) {
     // Process the collapse state if this is an UL
     if (el.tagName === "UL") {
       if (tocOpenDepth === -1 && depth > 1) {
+<<<<<<< HEAD
         // toc-expand: false
+=======
+>>>>>>> 14efa58f4fc3d57856f4886e6232cdf98646849a
         el.classList.add("collapse");
       } else if (
         depth <= tocOpenDepth ||

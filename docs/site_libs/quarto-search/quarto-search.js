@@ -675,6 +675,7 @@ function showCopyLink(query, options) {
 // create the index
 var fuseIndex = undefined;
 var shownWarning = false;
+<<<<<<< HEAD
 
 // fuse index options
 const kFuseIndexOptions = {
@@ -687,6 +688,8 @@ const kFuseIndexOptions = {
   threshold: 0.1,
 };
 
+=======
+>>>>>>> 14efa58f4fc3d57856f4886e6232cdf98646849a
 async function readSearchData() {
   // Initialize the search index on demand
   if (fuseIndex === undefined) {
@@ -697,7 +700,21 @@ async function readSearchData() {
       shownWarning = true;
       return;
     }
+<<<<<<< HEAD
     const fuse = new window.Fuse([], kFuseIndexOptions);
+=======
+    // create fuse index
+    const options = {
+      keys: [
+        { name: "title", weight: 20 },
+        { name: "section", weight: 20 },
+        { name: "text", weight: 10 },
+      ],
+      ignoreLocation: true,
+      threshold: 0.1,
+    };
+    const fuse = new window.Fuse([], options);
+>>>>>>> 14efa58f4fc3d57856f4886e6232cdf98646849a
 
     // fetch the main search.json
     const response = await fetch(offsetURL("search.json"));

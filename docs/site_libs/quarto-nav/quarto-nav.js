@@ -42,8 +42,11 @@ const announceRegister = () => {
 window.document.addEventListener("DOMContentLoaded", function () {
   let init = false;
 
+<<<<<<< HEAD
   announceRegister();
 
+=======
+>>>>>>> 14efa58f4fc3d57856f4886e6232cdf98646849a
   // Manage the back to top button, if one is present.
   let lastScrollTop = window.pageYOffset || document.documentElement.scrollTop;
   const scrollDownBuffer = 5;
@@ -273,7 +276,10 @@ window.document.addEventListener("DOMContentLoaded", function () {
     const links = window.document.querySelectorAll("a");
     for (let i = 0; i < links.length; i++) {
       if (links[i].href) {
+<<<<<<< HEAD
         links[i].dataset.originalHref = links[i].href;
+=======
+>>>>>>> 14efa58f4fc3d57856f4886e6232cdf98646849a
         links[i].href = links[i].href.replace(/\/index\.html/, "/");
       }
     }

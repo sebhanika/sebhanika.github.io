@@ -1,12 +1,13 @@
-
 /*-- scss:defaults --*/
 
 /* Font settings */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 $font-family-sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-$font-family-serif:  "Times New Roman", Georgia, Garamond !default;
-$font-family-monospace : "Roboto Mono", "Courier New", monospace !default;
+$font-family-serif: "Times New Roman", Georgia, Garamond !default;
+$font-family-monospace : "Roboto Mono",
+"Courier New",
+monospace !default;
 
 /* Ensure all text uses the same font */
 body, h1, h2, h3, h4, h5, h6, p, span, div, li, a {
