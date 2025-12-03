@@ -4,11 +4,22 @@ title: Research
 
 My PhD research focuses on spatial variations in population aging and the labor market participation of older workers. I have a strong interest in quantitative methods, particularly R programming and geoinformatics.
 
+## Publications
+
+- Hanika, S. (2025). Breaking Ageing Records: Municipal Perspectives on Population Ageing in the Nordics. *Nordic Yearbook of Population Research*, 58, 97-112. https://doi.org/10.23979/nypr.161295
+
+
 ## Research Experience
+
+**Ph.D. in Human Geography**
+
+- Lund University, Sweden
+- Sept. 2022 - now
 
 **European Doctoral School of Demography**
 
-- Centre d'estudis Demogràfics
+- Centre d'estudis Demogràfics, Universitat Autònoma de Barcelona, Spain-
+- European Research Certificate of Demography
 - Research education in demography finished with a thesis on post-retirement employment in Germany
 - [September 2021 - July 20222]{.date}
 

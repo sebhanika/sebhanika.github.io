@@ -2,53 +2,82 @@
 title: Teaching
 ---
 
-I began teaching at the university level in March 2023. My goal is to create more interactive materials and exercises for teaching quantitative methods. Additionally, I plan to deliver guest lectures in population and economic geography, aligning with my research interests. Some of my teaching materials are available on Github for [population geography](https://github.com/sebhanika/pop-geo-teaching) and [quantitaive methods](https://github.com/sebhanika/stats_teaching).
+I began teaching at the university level in March 2023. My goal is to create more interactive materials and exercises for teaching quantitative methods. I mainly taught quantitative methods in the beginning of my PhD and since spring 2024 I am also teaching the Introduction Module on Population Geography and GIS for first-year students. Some of my teaching materials are available on Github for [population geography](https://github.com/sebhanika/pop-geo-teaching) and [quantitaive methods](https://github.com/sebhanika/stats_teaching).
 
-# 2024
 
-## Courses - Lund University
+## 2025
 
-### Introduction to Population Geography & GIS
-- Designed and taught a module on Introduction to Population Geography in Spring 2024.
-- Expanded the module in Autumn 2024 to include additional hours and an Introduction to GIS component.
-- I now teach five lectures on population geography and one seminar as well as one lecture and a lab on GIS.
-- Focused on foundational concepts in population geography and spatial analysis techniques.
+### Courses – Lund University
 
-### Research Methodology in Human Geography & Human Ecology
-- Taught a quantitative methods and statistics module for both Human Geography and Human Ecology students.
-- Delivered 19 hours of in-classroom teaching, including lectures, seminars, and lab exercises.
-- Responsible for grading assignments and guiding students in applying quantitative methods.
+#### Introduction to Population Geography & GIS
 
-### Applied Methods in Planning (Spring and Autumn)
-- Delivered 12 hours of in-classroom teaching on quantitative methods and statistics.
-- Conducted lectures, seminars, and lab exercises in both Spring and Autumn semesters.
-- Graded assignments and provided feedback on statistical applications in planning.
+* Further refined and taught a module on *Introduction to Population Geography* in Spring & Autumn 2025.
+* Currently responsible for five lectures on population geography, one seminar, and one lecture plus one lab on GIS.
+* Focus on foundational concepts in population geography and introductory spatial analysis techniques.
 
-### Degree Project in Human Geography
-- Supervised a total of 2 students (spring and autumn) for their degree projects as part of the SGEA23 course.
-- Provided guidance on research design, data analysis, and academic writing.
+#### Degree Project in Human Geography
+
+* Course convener (Spring 2025).
+* Supervised 4 students on the SGEA23 course.
+* Guided students on research design, data analysis, and academic writing.
+
 
 ## 2024
 
-### Introduction to Population Geography
+### Courses – Lund University
 
-### Research Methodology in Human Geography & Human Ecology
-- Taught a quantitative methods and statistics module for both Human Geography and Human Ecology students.
-- Delivered 19 hours of in-classroom teaching, including lectures, seminars, and lab exercises.
-- Responsible for grading assignments and guiding students in applying quantitative methods.
+#### Introduction to Population Geography & GIS
 
-### Applied Methods in Planning (Spring and Autumn)
-- Delivered 12 hours of in-classroom teaching on quantitative methods and statistics.
-- Conducted lectures, seminars, and lab exercises in both Spring and Autumn semesters.
-- Graded assignments and provided feedback on statistical applications in planning.
+* Designed and taught a module on *Introduction to Population Geography* in Spring 2024.
+* Expanded the module in Autumn 2024 to include additional teaching hours and an *Introduction to GIS* component.
+* Responsible for five lectures on population geography, one seminar, and one lecture plus one lab on GIS.
+* Focus on foundational concepts in population geography and introductory spatial analysis techniques.
 
-### Degree Project in Human Geography
-- Supervised a total of 5 students (spring and autumn) for their degree projects as part of the SGEA23 course.
-- Provided guidance on research design, data analysis, and academic writing.
+#### Research Methodology in Human Geography & Human Ecology
 
-## Thesis Evaluation - EDSD/CED
+* Taught a quantitative methods and statistics module for students in both Human Geography and Human Ecology.
+* Delivered 19 hours of teaching (lectures, seminars, and labs).
+* Graded assignments and supported students in applying quantitative methods.
 
-### European Doctoral School of Demography (EDSD) / Centre for Demographic Studies (CED)
-- Served as a committee member for a thesis defense at the Centre for Demographic Studies in Barcelona, Spain.
-- Evaluated the thesis, provided feedback, and participated in the defense process.
+#### Applied Methods in Planning (Spring & Autumn)
 
+* Delivered 12 hours of teaching on quantitative methods and statistics.
+* Conducted lectures, seminars, and lab exercises in both Spring and Autumn.
+* Graded assignments and provided feedback on statistical applications in planning.
+
+#### Degree Project in Human Geography
+
+* Supervised 2 students (Spring & Autumn) in the SGEA23 course.
+* Provided guidance on research design, data analysis, and academic writing.
+
+
+## 2023
+
+### Courses – Lund University
+
+#### Introduction to Population Geography
+
+#### Research Methodology in Human Geography & Human Ecology
+
+* Taught a quantitative methods and statistics module for Human Geography and Human Ecology students.
+* Delivered 19 hours of teaching (lectures, seminars, and labs).
+* Graded assignments and supported students in applying quantitative methods.
+
+#### Applied Methods in Planning (Spring & Autumn)
+
+* Delivered 12 hours of teaching on quantitative methods and statistics.
+* Conducted lectures, seminars, and lab exercises in both semesters.
+* Graded assignments and provided feedback on statistical applications in planning.
+
+#### Degree Project in Human Geography
+
+* Supervised 5 students (Spring & Autumn) in the SGEA23 course.
+* Guided students on research design, data analysis, and academic writing.
+
+
+## Other Academic Activities
+
+### Thesis Evaluation – EDSD / CED (2023)
+
+* Served as committee member for a thesis defense at the Centre for Demographic Studies (Barcelona, Spain).
+* Evaluated the thesis, provided feedback, and participated in the defense process.

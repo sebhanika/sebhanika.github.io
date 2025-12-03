@@ -1,8 +1,8 @@
 ---
 title: "Sebastian Hanika"
 about:
-    template: trestles
-    image: images/mypic.png
+    template: jolla
+    image: images/mypic.jpg
     links: 
           - icon: chat-right
             href: https://bsky.app/profile/sebhanika.bsky.social
@@ -17,29 +17,4 @@ toc: false
 
 I am a PhD student at the Department of Human Geography at Lund University, specializing in the intersection between Human Geography and demography.
 
-My research focuses on spatial variations in population aging and labor market participation of older workers. I have a strong interest in quantitative methods, particularly R programming and GIS.
-
-------
-
-## Education
-
-**Ph.D. in Human Geography**
-
-- Lund University, Sweden
-- Sept. 2022 - now
-
-**M.Sc. in Demography**
-
-- Universitat Autònoma de Barcelona, Spain
-- European Doctoral School of Demography
-- Sept. 2021 - July 2022
-
-**M.Sc. in Human Geography**
-
-- Copenhagen University, Denmark
-- Sept. 2019 - June 2021
-
-**B.Sc. Geography and Economics**
-
-- Humboldt University Berlin, Germany
-- Sept. 2015 - June 2019
+My research focuses on spatial variations in population ageing and labor market participation of older workers. I have a strong interest in quantitative methods, particularly R programming and GIS.
