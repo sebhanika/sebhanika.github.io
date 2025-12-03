@@ -2,7 +2,7 @@
 title: Teaching
 ---
 
-I began teaching at the university level in March 2023. My goal is to create more interactive materials and exercises for teaching quantitative methods. I mainly taught quantitative methods in the beginning of my PhD and since spring 2024 I am also teaching the Introduction Module on Population Geography and GIS for first-year students. Some of my teaching materials are available on Github for [population geography](https://github.com/sebhanika/pop-geo-teaching) and [quantitaive methods](https://github.com/sebhanika/stats_teaching).
+I began teaching at the university level in March 2023. I mainly taught quantitative methods in the beginning of my PhD and since spring 2024 I am also teaching the Introduction Module on Population Geography and GIS for first-year students. Some of my teaching materials are available on Github for [population geography](https://github.com/sebhanika/pop-geo-teaching) and [quantitaive methods](https://github.com/sebhanika/stats_teaching).
 
 
 ## 2025

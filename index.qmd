@@ -15,4 +15,4 @@ page-layout: full
 toc: false
 ---
 
-I am a PhD student at the Department of Human Geography at Lund University, interest in the intersection between Human Geography and Demography.
+I am a PhD student at the Department of Human Geography at Lund University interest in the intersection between Human Geography and Demography.
