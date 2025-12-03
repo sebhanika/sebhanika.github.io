@@ -2,7 +2,7 @@
 title: Research
 ---
 
-My PhD research focuses on spatial variations in population aging and the labor market participation of older workers. I have a strong interest in quantitative methods, particularly R programming and geoinformatics.
+My PhD research focuses on spatial variations in population ageing and the labour market participation of older workers. I have a strong interest in quantitative methods, particularly R programming and GIS.
 
 ## Publications
 
