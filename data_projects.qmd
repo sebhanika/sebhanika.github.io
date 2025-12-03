@@ -2,7 +2,7 @@
 title: Data Projects
 ---
 
-Here, I am gathering some of my data projects which I do during my free time. The list is not complete and will be updated bit by bit. More projects can be found on my [Github](https://github.com/sebhanika).
+Here, I am gathering some of my data projects which I do during my free time. The list is not complete and will be updated occasionally. More projects can be found on my [Github](https://github.com/sebhanika).
 
 ## Alpine Mountain Names
 
