@@ -10,7 +10,6 @@ My first attempt at making a shiny app which can be found [here](https://sebhani
 
 The R code to recreate the project can be found in this [repository](https://github.com/sebhanika/alpine_peaks). 
 
-
 ## Lund Quarto Template
 
 This [repository](https://github.com/sebhanika/Lund_Uni_Quarto) contains templates for creating Quarto documents and presentations that match the official PowerPoint template from Lund University. 
@@ -18,6 +17,3 @@ To use the presentation template, simply download the 'extensions' folder and pl
 
 You can specify the title and author of your presentation in the YAML as you would in a regular Quarto presentation.
 
-## First-year seminar
-
-This [repository](https://github.com/sebhanika/First_Year_Seminar)  contains the code and output for the visualizations of my first-year seminar as part of my PhD at the Department of Human Geography at Lund University. The visualizations illustrate the factors driving population aging in Sweden and selected European countries.
